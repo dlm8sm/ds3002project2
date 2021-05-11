@@ -10,3 +10,12 @@ Analysis:
 
 Explination of Patterns:
 
+
+
+################### Picture Uploads ###################
+
+![project2-rds](https://user-images.githubusercontent.com/78705257/117752188-5adc9f00-b1e4-11eb-86e1-6fd16f496e39.PNG)
+
+![lambda_60sec](https://user-images.githubusercontent.com/78705257/117752197-5f08bc80-b1e4-11eb-94bf-1025da975f4c.PNG)
+
+![php blank data table](https://user-images.githubusercontent.com/78705257/117752204-60d28000-b1e4-11eb-95f7-284592173b04.PNG)
