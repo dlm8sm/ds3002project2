@@ -1,4 +1,4 @@
-# test.py file in lambda function #
+# lambda function #
 import requests
 import csv
 import json
@@ -23,3 +23,4 @@ def call_pylenin(event=None, context=None):
     time = rson['time']
     # time value from api
     return INSERT INTO `API_DATA`(`factor`, `pi`, `time`) VALUES ('factor','pi','time')
+
