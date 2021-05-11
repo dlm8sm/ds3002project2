@@ -22,5 +22,4 @@ def call_pylenin(event=None, context=None):
     # pi value from api
     time = rson['time']
     # time value from api
-    
     return INSERT INTO `API_DATA`(`factor`, `pi`, `time`) VALUES ('factor','pi','time')
