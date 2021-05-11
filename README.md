@@ -6,9 +6,7 @@ I first started by setting up a RDS in AWS, called project2. I then created a la
  
 Analysis:
 
-Over the course of the hour, I noticed a few trends in the data.
 
 
 Explination of Patterns:
 
-I believe that these trends in the data were 
